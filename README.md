@@ -1,4 +1,4 @@
-# Onion-Console
+# Onion-Console Omega2 GPIO application FIX
 Web application for accessing Onion devices
 
 ## Setup on Omega
